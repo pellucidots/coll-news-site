@@ -9,6 +9,8 @@ caption:
   subtitle: shaped like an owl
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
 ---
+Changes to content!
+
 The folly and unreasonableness of this speech would admit of no answer. But what a scene was this for Sir Clement! his surprise was evident; and I must acknowledge my confusion was equally great.
 
 We had now to wait for young Branghton, who did not appear for some time; and during this interval it was with difficulty that I avoided Sir Clement, who was on the rack of curiosity, and dying to speak to me.
